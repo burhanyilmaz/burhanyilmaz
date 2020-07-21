@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+<br/>
+<br/>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=burhanyilmaz&show_icons=true) 
+</br>
+</br>
+![Profile views](https://gpvc.arturio.dev/burhanyilmaz)
