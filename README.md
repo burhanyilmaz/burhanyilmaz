@@ -1,7 +1,10 @@
 ### Hi there 👋
-- 💬 Ask me about React Native
+🔭 I’m currently working on <b style='color:red'>React Native Template</b>
 
+💬 Ask me about React Native
 
+📫 How to reach me: [:briefcase:	Linkedin](https://www.google.com) [:bird:	Twitter](https://www.google.com)
+:envelope: burhan.yilmaaz@gmail.com
 <!--
 **burhanyilmaz/burhanyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-<br/>
-<br/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=burhanyilmaz&show_icons=true) 
-</br>
-</br>
 ![Profile views](https://gpvc.arturio.dev/burhanyilmaz)
