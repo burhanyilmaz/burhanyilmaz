@@ -3,7 +3,7 @@
 
 💬 Ask me about React Native
 
-📫 How to reach me: [:briefcase:	Linkedin](https://www.google.com) [:bird:	Twitter](https://www.google.com)
+📫 How to reach me: [:briefcase:	Linkedin](https://www.linkedin.com/in/burhanyilmaz-/) [:bird:	Twitter](https://twitter.com/burhanyilmazz_)
 :envelope: burhan.yilmaaz@gmail.com
 <!--
 **burhanyilmaz/burhanyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
