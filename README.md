@@ -8,7 +8,7 @@
 
 ⚐ Based in Ankara, Turkiye
 
-ϟ Currently working on <b style='color:red'>React Native Template</b>
+ϟ Currently working on <b style='color:red'>WoMob</b>
 
 
  ## Skills
