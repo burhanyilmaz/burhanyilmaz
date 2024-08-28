@@ -6,7 +6,7 @@
 
 
 
-⚐ Based in Ankara, Turkiye
+⚐ Based in Ankara, Türkiye
 
 ϟ Currently working on <b style='color:red'>WoMob</b>
 
